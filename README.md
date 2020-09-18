@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://github.com/Lako-FC/IniFile/blob/master/GITHUB_RESOURCES/logo.png?raw=true" width="150"/> 
+  <img align="center" src="https://github.com/Lako-FC/IniFile/blob/master/logo.png?raw=true" width="150"/> 
 </p>
 
 <h1><div align="center">IniFile</h1>
