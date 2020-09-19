@@ -2,9 +2,9 @@
 using System.Text;
 
 /// <summary>
-/// INI класс, для работы с ini-файлами [v0.1].
+/// INI класс, для работы с ini-файлами [v0.2].
 /// </summary>
-internal class IniFile
+public class IniFile
 {
     private readonly string FileName; //Имя файла инициализации.
     /// <param name="FileName">Имя файла инициализации.</param>
