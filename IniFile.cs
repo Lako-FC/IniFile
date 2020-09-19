@@ -1,8 +1,9 @@
-﻿using System.Runtime.InteropServices;
+using System.Runtime.InteropServices;
 using System.Text;
 
 /// <summary>
-/// INI класс, для работы с ini-файлами [v0.2].
+/// INI класс, для работы с ini-файлами [v0.2] 
+/// (github.com/Lako-FC/IniFile)
 /// </summary>
 public class IniFile
 {
