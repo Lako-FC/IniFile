@@ -1,10 +1,11 @@
-﻿using System.Runtime.InteropServices;
+using System.Runtime.InteropServices;
 using System.Text;
 
 /// <summary>
-/// INI класс, для работы с ini-файлами [v0.1].
+/// INI класс, для работы с ini-файлами [v0.2] 
+/// (github.com/Lako-FC/IniFile)
 /// </summary>
-internal class IniFile
+public class IniFile
 {
     private readonly string FileName; //Имя файла инициализации.
     /// <param name="FileName">Имя файла инициализации.</param>
