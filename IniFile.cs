@@ -3,7 +3,7 @@ using System.Text;
 
 /// <summary>
 /// INI класс, для работы с ini-файлами [v0.2] 
-/// (github.com/Lako-FC/IniFile)
+/// (github.com/0xLaileb/IniFile)
 /// </summary>
 public class IniFile
 {
