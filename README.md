@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://github.com/Lako-FC/IniFile/blob/master/logo.png?raw=true" width="150"/> 
+  <img align="center" src="https://github.com/0xLaileb/IniFile/blob/master/logo.png?raw=true" width="150"/> 
 </p>
 
 <h1><div align="center">IniFile</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/Lako-FC/IniFile/total?color=%231DC8EE&label=DOWNLOADS&logo=GitHub&logoColor=%231DC8EE&style=flat"/>
-  <img src="https://img.shields.io/github/last-commit/Lako-FC/IniFile?color=%231DC8EE&label=LAST%20COMMIT&style=flat"/>
-  <img src="https://img.shields.io/github/release-date/Lako-FC/IniFile?color=%231DC8EE&label=RELEASE%20DATE&style=flat"/>
+  <img src="https://img.shields.io/github/downloads/0xLaileb/IniFile/total?color=%231DC8EE&label=DOWNLOADS&logo=GitHub&logoColor=%231DC8EE&style=flat"/>
+  <img src="https://img.shields.io/github/last-commit/0xLaileb/IniFile?color=%231DC8EE&label=LAST%20COMMIT&style=flat"/>
+  <img src="https://img.shields.io/github/release-date/0xLaileb/IniFile?color=%231DC8EE&label=RELEASE%20DATE&style=flat"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <b>Поддержка</b>: .Net Framework / .Net Core
 </p>
 
-[releases]: https://github.com/Lako-FC/IniFile/releases/
+[releases]: https://github.com/0xLaileb/IniFile/releases/
 
 ## 🔧 Основной функционал
 - **Write** устанавливает строковые значения в ini-файлах. 
